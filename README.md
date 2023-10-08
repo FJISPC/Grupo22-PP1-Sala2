@@ -6,13 +6,13 @@ Desarrollar un sistema de aprendizaje automático que pueda predecir y clasifica
 
 Colaboradores:
 
-    Hanun Romina
-    Kanneman Samuel
-    Zelarayán Román
-    Mansilla Leonardo Matias
-    Lucero Carla
-    Barea Silvana
-    Juchniewicz Federico
+    Hanun, Romina
+    Kanneman, Samuel
+    Zelarayán, Román
+    Mansilla, Leonardo Matias
+    Lucero, Carla
+    Barea, Silvana
+    Juchniewicz, Federico
 
 Link Trello: https://trello.com/w/proyectogrupo22pp1
 Link Datasets https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
